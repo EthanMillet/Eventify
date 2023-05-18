@@ -1,0 +1,5 @@
+Fuzzy Wuzzy Brown	#c45069	Primary
+Blumine	#1e487a	Info
+Asparagus	#709358	Success
+Tango	#ed8220	Warning
+Pomegranate	#f44336	Danger
